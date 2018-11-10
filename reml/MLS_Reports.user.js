@@ -14,6 +14,7 @@
 
     var data = {
         'Address' : [7,10,11,12],
+        'Zipcode': [12],
         'Unit #': [9],
         '# Units': [57],
         'List Price': [6],
