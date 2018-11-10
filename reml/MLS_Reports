@@ -3,8 +3,8 @@
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Addding functionality to MLS search page
+// @author       Robert Wlaschin
 // @match        https://maxebrdi.paragonrels.com/publink/default.aspx*
 // @grant        GM_addStyle
 // ==/UserScript==
